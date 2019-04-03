@@ -1,9 +1,13 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-04-02 20:40:27 -0500",
       "minecraft:forest": "2019-04-02 20:15:46 -0500",
+      "minecraft:mountains": "2019-04-02 20:40:17 -0500",
       "minecraft:beach": "2019-04-02 20:21:04 -0500",
-      "minecraft:river": "2019-04-02 20:21:04 -0500"
+      "minecraft:river": "2019-04-02 20:21:04 -0500",
+      "minecraft:stone_shore": "2019-04-02 20:40:21 -0500",
+      "minecraft:plains": "2019-04-02 20:41:00 -0500"
     },
     "done": false
   }
