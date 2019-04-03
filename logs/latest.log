@@ -1,0 +1,74 @@
+[20:17:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:30] [main/INFO]: Loaded 0 recipes
+[20:17:30] [main/INFO]: Loaded 0 advancements
+[20:17:30] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[20:17:30] [Server thread/INFO]: Loading properties
+[20:17:30] [Server thread/INFO]: Default game type: SURVIVAL
+[20:17:30] [Server thread/INFO]: Generating keypair
+[20:17:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:17:30] [Server thread/INFO]: Using default channel type
+[20:17:31] [Server thread/INFO]: Preparing level "world"
+[20:17:31] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:17:32] [Server thread/INFO]: Loaded 524 recipes
+[20:17:33] [Server thread/INFO]: Loaded 571 advancements
+[20:17:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:17:33] [Server thread/INFO]: Preparing spawn area: 4%
+[20:17:33] [Server thread/INFO]: Preparing spawn area: 8%
+[20:17:33] [Server thread/INFO]: Preparing spawn area: 12%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 16%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 20%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 24%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 28%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 32%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 36%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 40%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 44%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 48%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 52%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 56%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 60%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 64%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 68%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 72%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 76%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 80%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 84%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 88%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 92%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 96%
+[20:17:34] [Server thread/INFO]: Preparing spawn area: 100%
+[20:17:34] [Server thread/INFO]: Time elapsed: 1295 ms
+[20:17:34] [Server thread/INFO]: Done (3.254s)! For help, type "help"
+[20:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[20:18:08] [User Authenticator #1/INFO]: UUID of player nebraskafan27 is b2ac96c8-13fe-4d80-ad8b-225d8b5cf524
+[20:18:08] [Server thread/INFO]: nebraskafan27[/73.217.209.34:51923] logged in with entity id 332 at (200.5, 63.0, -176.5)
+[20:18:08] [Server thread/INFO]: nebraskafan27 joined the game
+[20:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5602ms or 112 ticks behind
+[20:19:28] [Server thread/WARN]: nebraskafan27 moved too quickly! 9.309893206403387,-2.0,-3.62240455526981
+[20:19:51] [User Authenticator #2/INFO]: UUID of player Manic_Soul is f73326f1-44d9-4888-a154-345653dd89de
+[20:19:51] [Server thread/INFO]: Manic_Soul[/127.0.0.1:54226] logged in with entity id 2572 at (259.25051681604305, 101.40760190996357, -171.4568665973977)
+[20:19:51] [Server thread/INFO]: Manic_Soul joined the game
+[20:20:05] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to nebraskafan27]
+[20:20:20] [Server thread/INFO]: [Manic_Soul: Made nebraskafan27 a server operator]
+[20:20:36] [Server thread/INFO]: nebraskafan27 fell out of the world
+[20:20:36] [Server thread/INFO]: [nebraskafan27: Killed nebraskafan27]
+[20:20:58] [Server thread/INFO]: nebraskafan27 fell out of the world
+[20:20:58] [Server thread/INFO]: [Manic_Soul: Killed nebraskafan27]
+[20:22:03] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
+[20:22:03] [Server thread/INFO]: Manic_Soul left the game
+[20:22:09] [Server thread/INFO]: Unknown command
+[20:22:09] [Server thread/INFO]: /p/stop<--[HERE]
+[20:22:10] [Server thread/INFO]: nebraskafan27 lost connection: Disconnected
+[20:22:10] [Server thread/INFO]: nebraskafan27 left the game
+[20:22:14] [Server thread/INFO]: Stopping the server
+[20:22:14] [Server thread/INFO]: Stopping server
+[20:22:14] [Server thread/INFO]: Saving players
+[20:22:14] [Server thread/INFO]: Saving worlds
+[20:22:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:22:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:22:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:22:14] [Server Shutdown Thread/INFO]: Stopping server
