@@ -1,112 +1,53 @@
-[00:00:01] [Server thread/INFO]: [Manic_Soul: Kicked JazManthing: Kicked by an operator]
-[00:00:01] [Server thread/INFO]: JazManthing lost connection: Kicked by an operator
-[00:00:01] [Server thread/INFO]: JazManthing left the game
-[00:00:05] [User Authenticator #33/INFO]: UUID of player JazManthing is 18d39cb5-3b45-4476-8d4e-209930a6886a
-[00:00:05] [Server thread/INFO]: JazManthing[/69.247.220.50:52370] logged in with entity id 544711 at (-3768.560322980653, 89.0, -5718.004749435563)
-[00:00:05] [Server thread/INFO]: JazManthing joined the game
-[00:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
-[00:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
-[00:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
-[00:03:21] [Server thread/INFO]: Manic_Soul fell from a high place
-[00:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
-[00:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
-[00:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[00:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
-[00:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5746ms or 114 ticks behind
-[00:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5881ms or 117 ticks behind
-[00:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
-[00:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
-[00:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
-[00:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5864ms or 117 ticks behind
-[00:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5552ms or 111 ticks behind
-[00:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4452ms or 89 ticks behind
-[00:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[00:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
-[00:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4706ms or 94 ticks behind
-[00:08:47] [Server thread/INFO]: ChigBungus burned to death
-[00:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[00:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
-[00:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[00:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
-[00:10:20] [Server thread/INFO]: ChigBungus lost connection: Disconnected
-[00:10:20] [Server thread/INFO]: ChigBungus left the game
-[00:10:21] [Server thread/INFO]: actionjackson16 lost connection: Disconnected
-[00:10:21] [Server thread/INFO]: actionjackson16 left the game
-[00:10:27] [Server thread/INFO]: JazManthing has made the advancement [Sweet Dreams]
-[00:10:45] [User Authenticator #34/INFO]: UUID of player ChigBungus is 00b4067c-bb79-4d5d-8adf-774f3d23e5fb
-[00:10:45] [Server thread/INFO]: ChigBungus[/131.151.147.67:61723] logged in with entity id 584351 at (-3128.2589536143914, 11.0, -5273.300000011921)
-[00:10:45] [Server thread/INFO]: ChigBungus joined the game
-[00:10:47] [User Authenticator #35/INFO]: UUID of player actionjackson16 is 472e63fa-e1f1-489b-ba53-1ade9ead51c5
-[00:10:47] [Server thread/INFO]: actionjackson16[/136.32.229.123:52818] logged in with entity id 584753 at (-2536.341859364168, 8.0, -2997.1360082163415)
-[00:10:47] [Server thread/INFO]: actionjackson16 joined the game
-[00:11:22] [Server thread/INFO]: JazManthing has made the advancement [Monster Hunter]
-[00:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[00:12:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
-[00:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[00:13:05] [Server thread/INFO]: ChigBungus has made the advancement [Diamonds!]
-[00:13:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
-[00:13:47] [Server thread/WARN]: actionjackson16 moved too quickly! -2.8172446743647015,9.433545715344593,-1.9990207706541696
-[00:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13286ms or 265 ticks behind
-[00:14:17] [Server thread/WARN]: BoyWhoShatTime moved too quickly! 7.732159353717634,-6.464159374955443,-0.0248992845590692
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -7.1514658292071545,0.0,-7.550253714386599
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -7.4265228314125125,0.0,-7.840668691425435
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -7.701577878057833,0.0,-8.131085983591674
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -7.976631164699029,0.0,-8.421505359372532
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -8.251682867336513,0.0,-8.711926610406408
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -8.526733144371065,0.0,-9.00234954916823
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -8.801782138362796,0.0,-9.292774006884883
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -9.076829977615944,0.0,-9.583199831661204
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -9.351876777604502,0.0,-9.87362688679059
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -9.626922642254613,0.0,-10.164055049237959
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -9.901967665100528,0.0,-10.454484208271879
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -10.177011930322806,0.0,-10.744914264233103
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -10.452055513683263,0.0,-11.035345127429082
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -10.727098483368536,0.0,-11.325776717136705
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -11.002140900746326,0.0,-11.61620896070417
-[00:14:17] [Server thread/WARN]: Boat (vehicle of actionjackson16) moved too quickly! -11.277182821047063,0.0,-11.906641792745631
-[00:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7211ms or 144 ticks behind
-[00:14:31] [Server thread/INFO]: JazManthing has made the advancement [Stone Age]
-[00:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
-[00:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12677ms or 253 ticks behind
-[00:15:22] [Server thread/INFO]: JazManthing has made the advancement [Getting an Upgrade]
-[00:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
-[00:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
-[00:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
-[00:16:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8510ms or 170 ticks behind
-[00:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4702ms or 94 ticks behind
-[00:17:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
-[00:17:29] [Server thread/INFO]: BoyWhoShatTime has made the advancement [Diamonds!]
-[00:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
-[00:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
-[00:18:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3955ms or 79 ticks behind
-[00:18:23] [Server thread/INFO]: JazManthing has made the advancement [Acquire Hardware]
-[00:18:28] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
-[00:18:28] [Server thread/INFO]: Manic_Soul left the game
-[00:18:53] [Server thread/INFO]: actionjackson16 lost connection: Disconnected
-[00:19:52] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[00:20:28] [Server thread/INFO]: actionjackson16 left the game
-[00:20:28] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[00:20:28] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\adarr\Minecraft Server\.\crash-reports\crash-2019-04-03_00.20.28-server.txt
-[00:20:28] [Server Shutdown Thread/INFO]: Stopping server
-[00:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 95766ms or 1915 ticks behind
-[00:20:28] [Server Shutdown Thread/INFO]: Saving players
-[00:20:28] [Server thread/INFO]: HotLykeStove lost connection: Disconnected
-[00:20:28] [Server thread/INFO]: HotLykeStove left the game
-[00:20:28] [Server thread/INFO]: BoyWhoShatTime lost connection: Disconnected
-[00:20:28] [Server thread/INFO]: BoyWhoShatTime left the game
-[00:20:28] [Server thread/INFO]: JazManthing lost connection: Disconnected
-[00:20:28] [Server thread/INFO]: JazManthing left the game
-[00:20:28] [Server thread/INFO]: ChigBungus lost connection: Disconnected
-[00:20:28] [Server thread/INFO]: ChigBungus left the game
-[00:20:28] [Server thread/WARN]: handleDisconnection() called twice
-[00:20:28] [Server Shutdown Thread/INFO]: Saving worlds
-[00:20:28] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:20:28] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:20:28] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:20:32] [Server thread/INFO]: Stopping the server
-[00:20:32] [Server thread/INFO]: Stopping server
-[00:20:32] [Server thread/INFO]: Saving players
-[00:20:32] [Server thread/INFO]: Saving worlds
-[00:20:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:20:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:20:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:28] [main/INFO]: Loaded 0 recipes
+[14:00:28] [main/INFO]: Loaded 0 advancements
+[14:00:28] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[14:00:28] [Server thread/INFO]: Loading properties
+[14:00:28] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:28] [Server thread/INFO]: Generating keypair
+[14:00:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:00:28] [Server thread/INFO]: Using default channel type
+[14:00:29] [Server thread/INFO]: Preparing level "world"
+[14:00:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:00:30] [Server thread/INFO]: Loaded 524 recipes
+[14:00:31] [Server thread/INFO]: Loaded 571 advancements
+[14:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 4%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 8%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 12%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 16%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 20%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 24%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 28%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 32%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 36%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 40%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 44%
+[14:00:31] [Server thread/INFO]: Preparing spawn area: 48%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 52%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 56%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 60%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 64%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 68%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 72%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 76%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 80%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 84%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 88%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 92%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 96%
+[14:00:32] [Server thread/INFO]: Preparing spawn area: 100%
+[14:00:32] [Server thread/INFO]: Time elapsed: 1321 ms
+[14:00:32] [Server thread/INFO]: Done (3.423s)! For help, type "help"
+[14:01:37] [Server thread/INFO]: Stopping the server
+[14:01:37] [Server thread/INFO]: Stopping server
+[14:01:37] [Server thread/INFO]: Saving players
+[14:01:37] [Server thread/INFO]: Saving worlds
+[14:01:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:01:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:01:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:01:37] [Server Shutdown Thread/INFO]: Stopping server
