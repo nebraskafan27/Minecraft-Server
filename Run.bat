@@ -1,1 +1,2 @@
-java -Xmx1024M -Xms1024M server.jar nogui
+java -Xmx4096M -jar craftbukkit-1.13.2.jar -o true
+PAUSE
