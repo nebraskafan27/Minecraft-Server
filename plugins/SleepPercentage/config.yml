@@ -1,0 +1,71 @@
+percentageperworld:
+  world:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  world_nether:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+  world_the_end:
+    disabled: false
+    percentage: 50
+    timeset: 1000
+    maxtickweatherstay: 54000
+    allowPlayersToSleepWhileMobsAreNearby:
+      enabled: false
+      nameTagOnly: true
+      ignorePermission: false
+sleepingEnabled: true
+messages:
+  enabled:
+    color:
+    - GOLD
+    message: '{0}Enabled Sleep Percentage'
+  disabled:
+    color:
+    - GOLD
+    message: '{0}Disabled Sleep Percentage'
+  set:
+    color:
+    - GOLD
+    message: '{0}Set Sleep Percentage to [0]% for [1]'
+  not_sleeping:
+    color:
+    - LIGHT_PURPLE
+    - GRAY
+    message: '{0}[0]{1} is no longer sleeping'
+  sleeping:
+    color:
+    - LIGHT_PURPLE
+    - GOLD
+    message: '{0}[0]{1} is now sleeping'
+  total:
+    color:
+    - GOLD
+    - GRAY
+    message: '{1}Currently, {0}[0]%{1} of players are sleeping out of the {0}[1]{1}%
+      needed'
+  daytick:
+    color:
+    - GOLD
+    message: '{0}Set Day Tick to [0]'
+  worldDisable:
+    color:
+    - GOLD
+    message: '{0}Set [1] to be disabled: [0]'
+  worldDisableFailed:
+    color:
+    - RED
+    - LIGHT_PURPLE
+    message: '{0}The world {1}[0]{0} does not exist'

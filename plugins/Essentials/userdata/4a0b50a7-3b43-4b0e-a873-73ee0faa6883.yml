@@ -1,4 +1,19 @@
 lastAccountName: thickfila
 timestamps:
-  login: 1554338691188
+  login: 1554341947288
+  logout: 1554345092498
 ipAddress: 73.217.209.34
+lastlocation:
+  world: world
+  x: -3480.302025875924
+  y: 88.0
+  z: -5612.146729118562
+  yaw: -326.43073
+  pitch: 8.249987
+logoutlocation:
+  world: world
+  x: -3310.2633328571137
+  y: 99.0
+  z: -5332.551566146021
+  yaw: -90.9353
+  pitch: 26.849602

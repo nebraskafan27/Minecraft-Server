@@ -1,153 +1,21 @@
-[19:43:29] [main/INFO]: Loaded 0 recipes
-[19:43:29] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[19:43:29] [Server thread/INFO]: Loading properties
-[19:43:29] [Server thread/INFO]: Default game type: SURVIVAL
-[19:43:29] [Server thread/INFO]: Generating keypair
-[19:43:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:43:29] [Server thread/INFO]: Using default channel type
-[19:43:29] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a5b9c7b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[19:43:32] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.0
-[19:43:32] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-3-160
-[19:43:32] [Server thread/INFO]: [dynmap] version=git-Bukkit-a5b9c7b (MC: 1.13.2)
-[19:43:33] [Server thread/INFO]: [dynmap] Mod Support API available
-[19:43:33] [Server thread/INFO]: [Essentials] Loading Essentials v2.16.0.3
-[19:43:33] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.11.6
-[19:43:33] [Server thread/INFO]: [GraviTree] Loading GraviTree v3.5.0
-[19:43:33] [Server thread/INFO]: Preparing level "world"
-[19:43:33] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[19:43:33] [Server thread/INFO]: Loaded 524 recipes
-[19:43:34] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -6223360855630385549)
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 4%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 8%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 12%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 16%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 20%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 24%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 28%
-[19:43:34] [Server thread/INFO]: Preparing spawn area: 32%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 36%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 40%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 44%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 48%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 52%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 56%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 60%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 64%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 68%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 72%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 76%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 80%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 84%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 88%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 92%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 96%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 100%
-[19:43:35] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -6223360855630385549)
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 4%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 8%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 12%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 16%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 20%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 24%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 28%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 32%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 36%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 40%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 44%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 48%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 52%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 56%
-[19:43:35] [Server thread/INFO]: Preparing spawn area: 60%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 64%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 68%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 72%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 76%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 80%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 84%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 88%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 92%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 96%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 100%
-[19:43:36] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -6158610478209191587)
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 4%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 8%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 12%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 16%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 20%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 24%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 28%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 32%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 36%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 40%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 44%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 48%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 52%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 56%
-[19:43:36] [Server thread/INFO]: Preparing spawn area: 60%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 64%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 68%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 72%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 76%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 80%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 84%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 88%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 92%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 96%
-[19:43:37] [Server thread/INFO]: Preparing spawn area: 100%
-[19:43:37] [Server thread/INFO]: Time elapsed: 2425 ms
-[19:43:37] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.0
-[19:43:37] [Server thread/INFO]: [ClearLag] Loading modules...
-[19:43:37] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[19:43:37] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[19:43:37] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[19:43:37] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-3-160
-[19:43:37] [Thread-6/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.13]...
-[19:43:37] [Server thread/INFO]: [dynmap] Added 11 custom biome mappings
-[19:43:37] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[19:43:37] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[19:43:38] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[19:43:38] [Thread-6/INFO]: [ClearLag] No updates found!
-[19:43:38] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
-[19:43:38] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[19:43:38] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[19:43:39] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[19:43:39] [Server thread/INFO]: [dynmap] version 3.0-beta-3-160 is enabled - core version 3.0-beta-3-160
-[19:43:39] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
-[19:43:39] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[19:43:39] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[19:43:39] [Server thread/INFO]: [dynmap] Loaded 248 pending tile renders for world 'world'
-[19:43:39] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[19:43:39] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[19:43:39] [Server thread/INFO]: [dynmap] Enabled
-[19:43:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.16.0.3
-[19:43:39] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[19:43:39] [Server thread/INFO]: No kits found to migrate.
-[19:43:40] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[19:43:40] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
-[19:43:40] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[19:43:40] [Server thread/INFO]: Loaded 17746 items from items.json.
-[19:43:40] [Server thread/INFO]: Using locale en_US
-[19:43:40] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
-[19:43:40] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[19:43:40] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[19:43:40] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.11.6
-[19:43:40] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[19:43:40] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
-[19:43:40] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[19:43:40] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[19:43:41] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[19:43:41] [Server thread/INFO]: [GraviTree] Enabling GraviTree v3.5.0
-[19:43:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:43:41] [Server thread/INFO]: Done (8.104s)! For help, type "help"
-[19:43:42] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[19:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[19:43:54] [User Authenticator #1/INFO]: UUID of player nebraskafan27 is b2ac96c8-13fe-4d80-ad8b-225d8b5cf524
-[19:43:55] [Server thread/INFO]: nebraskafan27[/73.217.209.34:54113] logged in with entity id 169 at ([world]-3464.30567472668, 96.0, -5766.874995527567)
-[19:44:50] [User Authenticator #2/INFO]: UUID of player thickfila is 4a0b50a7-3b43-4b0e-a873-73ee0faa6883
-[19:44:51] [Server thread/INFO]: thickfila[/73.217.209.34:50027] logged in with entity id 718 at ([world]-3756.3038771825863, 88.0, -5702.745734382339)
-[19:44:51] [pool-7-thread-1/INFO]: Creating empty config: C:\Users\Joe\Documents\GitHub\Minecraft-Server\plugins\Essentials\userdata\4a0b50a7-3b43-4b0e-a873-73ee0faa6883.yml
-[19:45:09] [User Authenticator #3/INFO]: UUID of player JazManthing is 18d39cb5-3b45-4476-8d4e-209930a6886a
-[19:45:09] [Server thread/INFO]: JazManthing[/69.247.220.50:59226] logged in with entity id 1707 at ([world]-3468.1088928257195, 73.0, -5825.208910120426)
-[19:45:09] [pool-7-thread-1/INFO]: Creating empty config: C:\Users\Joe\Documents\GitHub\Minecraft-Server\plugins\Essentials\userdata\18d39cb5-3b45-4476-8d4e-209930a6886a.yml
-[19:45:49] [Server thread/INFO]: JazManthing issued server command: /getloc
-[19:45:49] [Server thread/INFO]: §cJazManthing §4was denied access to command.
+[05:47:22] [Server thread/INFO]: Stopping the server
+[05:47:22] [Server thread/INFO]: Stopping server
+[05:47:22] [Server thread/INFO]: [GraviTree] Disabling GraviTree v3.5.0
+[05:47:22] [Server thread/INFO]: GraviTree: GraviTree disabled.
+[05:47:22] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.11.6
+[05:47:22] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[05:47:22] [Server thread/INFO]: [SleepPercentage] Disabling SleepPercentage v1.2.1
+[05:47:22] [Server thread/INFO]: [Essentials] Disabling Essentials v2.16.0.3
+[05:47:22] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v5.3
+[05:47:22] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[05:47:22] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-3-160
+[05:47:22] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[05:47:22] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[05:47:23] [Server thread/INFO]: [dynmap] Disabled
+[05:47:23] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.0.0
+[05:47:23] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[05:47:23] [Server thread/INFO]: Saving players
+[05:47:23] [Server thread/INFO]: Saving worlds
+[05:47:23] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[05:47:23] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[05:47:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

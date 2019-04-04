@@ -316,6 +316,7 @@
       "cooked_porkchop": "2019-04-03 16:28:08 -0500",
       "cooked_mutton": "2019-04-02 21:47:24 -0500",
       "cooked_beef": "2019-04-02 21:26:04 -0500",
+      "apple": "2019-04-03 20:42:09 -0500",
       "bread": "2019-04-02 21:59:43 -0500",
       "dried_kelp": "2019-04-03 12:38:00 -0500",
       "beetroot": "2019-04-03 19:19:03 -0500",
@@ -425,13 +426,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-02 23:30:32 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-02 23:30:32 -0500"
     },
@@ -543,6 +544,7 @@
     "criteria": {
       "minecraft:chicken": "2019-04-03 12:02:11 -0500",
       "minecraft:pig": "2019-04-03 12:27:52 -0500",
+      "minecraft:horse": "2019-04-03 20:07:52 -0500",
       "minecraft:sheep": "2019-04-03 18:27:35 -0500"
     },
     "done": false

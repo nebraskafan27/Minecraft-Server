@@ -1,12 +1,20 @@
 lastAccountName: Manic_Soul
 timestamps:
-  login: 1554338485820
-  logout: 1554338516966
+  login: 1554338889822
+  logout: 1554345679152
+  lastteleport: 1554343426370
 ipAddress: 73.217.234.228
 logoutlocation:
   world: world
-  x: -3461.7029232637983
-  y: 90.0068315723378
-  z: -5761.214824933909
-  yaw: -207.8176
-  pitch: 10.94998
+  x: -3768.67378448337
+  y: 89.0
+  z: -5716.291443845481
+  yaw: 23.963486
+  pitch: 7.2291074
+lastlocation:
+  world: world
+  x: -3201.033920814689
+  y: 71.0
+  z: -5079.146341516283
+  yaw: 334.6602
+  pitch: 1.1188537E-4
