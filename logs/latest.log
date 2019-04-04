@@ -1,53 +1,429 @@
-[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:00:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:00:28] [main/INFO]: Loaded 0 recipes
-[14:00:28] [main/INFO]: Loaded 0 advancements
-[14:00:28] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[14:00:28] [Server thread/INFO]: Loading properties
-[14:00:28] [Server thread/INFO]: Default game type: SURVIVAL
-[14:00:28] [Server thread/INFO]: Generating keypair
-[14:00:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:00:28] [Server thread/INFO]: Using default channel type
-[14:00:29] [Server thread/INFO]: Preparing level "world"
-[14:00:29] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:00:30] [Server thread/INFO]: Loaded 524 recipes
-[14:00:31] [Server thread/INFO]: Loaded 571 advancements
-[14:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 4%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 8%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 12%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 16%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 20%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 24%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 28%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 32%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 36%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 40%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 44%
-[14:00:31] [Server thread/INFO]: Preparing spawn area: 48%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 52%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 56%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 60%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 64%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 68%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 72%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 76%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 80%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 84%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 88%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 92%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 96%
-[14:00:32] [Server thread/INFO]: Preparing spawn area: 100%
-[14:00:32] [Server thread/INFO]: Time elapsed: 1321 ms
-[14:00:32] [Server thread/INFO]: Done (3.423s)! For help, type "help"
-[14:01:37] [Server thread/INFO]: Stopping the server
-[14:01:37] [Server thread/INFO]: Stopping server
-[14:01:37] [Server thread/INFO]: Saving players
-[14:01:37] [Server thread/INFO]: Saving worlds
-[14:01:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:01:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:01:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:01:37] [Server Shutdown Thread/INFO]: Stopping server
+[14:24:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:24:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:24:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:24:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:24:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:24:05] [main/INFO]: Loaded 0 recipes
+[14:24:05] [main/INFO]: Loaded 0 advancements
+[14:24:05] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[14:24:05] [Server thread/INFO]: Loading properties
+[14:24:05] [Server thread/INFO]: Default game type: SURVIVAL
+[14:24:05] [Server thread/INFO]: Generating keypair
+[14:24:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:24:05] [Server thread/INFO]: Using default channel type
+[14:24:06] [Server thread/INFO]: Preparing level "world"
+[14:24:06] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:24:07] [Server thread/INFO]: Loaded 524 recipes
+[14:24:08] [Server thread/INFO]: Loaded 571 advancements
+[14:24:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 4%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 8%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 12%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 16%
+[14:24:09] [User Authenticator #1/INFO]: UUID of player Manic_Soul is f73326f1-44d9-4888-a154-345653dd89de
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 20%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 24%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 28%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 32%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 36%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 40%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 44%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 48%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 52%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 56%
+[14:24:09] [Server thread/INFO]: Preparing spawn area: 60%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 64%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 68%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 72%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 76%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 80%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 84%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 88%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 92%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 96%
+[14:24:10] [Server thread/INFO]: Preparing spawn area: 100%
+[14:24:10] [Server thread/INFO]: Time elapsed: 1343 ms
+[14:24:10] [Server thread/INFO]: Done (3.608s)! For help, type "help"
+[14:24:10] [Server thread/INFO]: Manic_Soul[/127.0.0.1:57829] logged in with entity id 92 at (-3766.7002752395233, 89.0, -5721.575331058332)
+[14:24:10] [Server thread/INFO]: Manic_Soul joined the game
+[14:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[14:24:31] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[14:24:45] [Server thread/INFO]: Manic_Soul fell out of the world
+[14:24:45] [Server thread/INFO]: [Manic_Soul: Killed Manic_Soul]
+[14:24:48] [Server thread/WARN]: Manic_Soul moved too quickly! 11.412654092704997,-7.807602720449509,4.666295757037915
+[14:25:15] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[14:35:13] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[14:38:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[14:45:00] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[14:51:13] [User Authenticator #2/INFO]: UUID of player BoyWhoShatTime is 45f3e7e5-ede1-4ee1-96cd-48fac3cfbddc
+[14:51:13] [Server thread/INFO]: BoyWhoShatTime[/73.217.241.177:53099] logged in with entity id 45083 at (-3787.300000011921, 81.0, -5684.560257511199)
+[14:51:13] [Server thread/INFO]: BoyWhoShatTime joined the game
+[14:54:40] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[14:56:46] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
+[14:56:46] [Server thread/INFO]: Manic_Soul left the game
+[14:56:54] [User Authenticator #3/INFO]: UUID of player Manic_Soul is f73326f1-44d9-4888-a154-345653dd89de
+[14:56:54] [Server thread/INFO]: Manic_Soul[/127.0.0.1:57914] logged in with entity id 67872 at (-3697.494347230476, 198.3334827755383, -5870.257284752085)
+[14:56:54] [Server thread/INFO]: Manic_Soul joined the game
+[15:00:05] [Server thread/INFO]: [Manic_Soul: Set the weather to clear]
+[15:04:17] [Server thread/INFO]: [Manic_Soul: Set the weather to clear]
+[15:04:23] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[15:09:46] [Server thread/INFO]: [Manic_Soul: Set the weather to clear]
+[15:15:40] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
+[15:15:40] [Server thread/INFO]: Manic_Soul left the game
+[15:16:30] [User Authenticator #4/INFO]: UUID of player Manic_Soul is f73326f1-44d9-4888-a154-345653dd89de
+[15:16:30] [Server thread/INFO]: Manic_Soul[/127.0.0.1:58100] logged in with entity id 100917 at (-3772.5, 89.0999984741211, -5720.5)
+[15:16:30] [Server thread/INFO]: Manic_Soul joined the game
+[15:17:10] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[15:17:25] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[15:17:40] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[15:18:39] [Server thread/INFO]: Unknown command
+[15:18:39] [Server thread/INFO]: <--[HERE]
+[15:19:49] [User Authenticator #5/INFO]: UUID of player JazManthing is 18d39cb5-3b45-4476-8d4e-209930a6886a
+[15:19:49] [Server thread/INFO]: JazManthing[/69.247.220.50:49923] logged in with entity id 103807 at (-3465.1929083807904, 78.0, -5775.4207011659)
+[15:19:49] [Server thread/INFO]: JazManthing joined the game
+[15:20:31] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
+[15:20:31] [Server thread/INFO]: Manic_Soul left the game
+[15:21:03] [User Authenticator #6/INFO]: UUID of player Manic_Soul is f73326f1-44d9-4888-a154-345653dd89de
+[15:21:03] [Server thread/INFO]: Manic_Soul[/127.0.0.1:58204] logged in with entity id 106992 at (-3774.6758105444155, 87.0, -5727.509021498628)
+[15:21:03] [Server thread/INFO]: Manic_Soul joined the game
+[15:21:36] [Server thread/INFO]: [Manic_Soul: Gave 256 [Yellow Terracotta] to Manic_Soul]
+[15:24:02] [Server thread/INFO]: [Manic_Soul: Gave 128 [Orange Terracotta] to Manic_Soul]
+[15:35:08] [Server thread/INFO]: [Manic_Soul: Gave 64 [Brown Glazed Terracotta] to Manic_Soul]
+[15:36:21] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[15:41:04] [Server thread/INFO]: [Manic_Soul: Gave 1 [Flint and Steel] to JazManthing]
+[15:41:12] [Server thread/INFO]: [Manic_Soul: Gave 1 [Obsidian] to JazManthing]
+[15:42:30] [Server thread/INFO]: [Manic_Soul: Gave 1 [Diamond Pickaxe] to JazManthing]
+[15:43:51] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to JazManthing]
+[15:44:52] [Server thread/INFO]: JazManthing has made the advancement [We Need to Go Deeper]
+[15:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[15:44:52] [Server thread/WARN]: Manic_Soul moved too quickly! -8.526037689576697,0.0,-5.378763544440517
+[15:44:52] [Server thread/WARN]: BoyWhoShatTime moved too quickly! -9.415514191412058,-0.3693736602695026,-3.8999021145855295
+[15:44:52] [Server thread/WARN]: BoyWhoShatTime moved too quickly! -9.27113033292244,-0.6058445476799648,-3.8204198277571777
+[15:44:52] [Server thread/WARN]: Manic_Soul moved too quickly! -8.549980960133325,0.0,-5.269765034527154
+[15:45:14] [Server thread/INFO]: [Manic_Soul: Teleported BoyWhoShatTime to Manic_Soul]
+[15:46:45] [Server thread/INFO]: BoyWhoShatTime has made the advancement [We Need to Go Deeper]
+[15:47:42] [Server thread/INFO]: JazManthing has made the advancement [A Terrible Fortress]
+[15:47:51] [Server thread/INFO]: BoyWhoShatTime has made the advancement [A Terrible Fortress]
+[15:50:44] [Server thread/INFO]: BoyWhoShatTime has made the advancement [Into Fire]
+[15:50:52] [Server thread/INFO]: JazManthing has made the advancement [Take Aim]
+[15:51:16] [Server thread/INFO]: JazManthing has made the advancement [Into Fire]
+[15:59:59] [Server thread/INFO]: JazManthing has made the advancement [Spooky Scary Skeleton]
+[16:02:49] [Server thread/INFO]: [Manic_Soul: Teleported BoyWhoShatTime to Manic_Soul]
+[16:06:43] [User Authenticator #7/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:06:43] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52804] logged in with entity id 171642 at (-3620.192741646834, 69.0, -6010.423113342753)
+[16:06:43] [Server thread/INFO]: MemeCrafts joined the game
+[16:14:02] [Server thread/INFO]: MemeCrafts was shot by Skeleton
+[16:14:09] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[16:18:33] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[16:18:33] [Server thread/INFO]: MemeCrafts left the game
+[16:18:33] [Server thread/INFO]: [Manic_Soul: Kicked MemeCrafts: Kicked by an operator]
+[16:18:33] [Server thread/WARN]: handleDisconnection() called twice
+[16:18:39] [User Authenticator #8/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:18:39] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52853] logged in with entity id 215973 at (-3636.514343675463, 24.0, -6069.468270973383)
+[16:18:39] [Server thread/INFO]: MemeCrafts joined the game
+[16:21:53] [User Authenticator #9/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[16:21:53] [Server thread/INFO]: ElTilto[/73.217.234.228:56687] logged in with entity id 226269 at (1873.2935403429583, 71.0, 1380.7303928808444)
+[16:21:53] [Server thread/INFO]: ElTilto joined the game
+[16:22:02] [Server thread/INFO]: MemeCrafts has made the advancement [Take Aim]
+[16:22:14] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[16:23:16] [Server thread/INFO]: <ElTilto> -3700 -5700
+[16:24:19] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[16:24:19] [Server thread/INFO]: MemeCrafts left the game
+[16:24:50] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[16:24:50] [Server thread/INFO]: ElTilto left the game
+[16:24:51] [Server thread/INFO]: JazManthing lost connection: Disconnected
+[16:24:51] [Server thread/INFO]: JazManthing left the game
+[16:24:54] [User Authenticator #10/INFO]: UUID of player JazManthing is 18d39cb5-3b45-4476-8d4e-209930a6886a
+[16:24:54] [Server thread/INFO]: JazManthing[/69.247.220.50:52185] logged in with entity id 244624 at (-3404.699999988079, 65.0, -5842.822099882005)
+[16:24:54] [Server thread/INFO]: JazManthing joined the game
+[16:24:54] [User Authenticator #11/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[16:24:55] [Server thread/INFO]: ElTilto[/73.217.234.228:56723] logged in with entity id 244759 at (1612.570947478189, 82.0, 1306.3026851545633)
+[16:24:55] [Server thread/INFO]: ElTilto joined the game
+[16:25:39] [User Authenticator #12/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:25:39] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52861] logged in with entity id 246732 at (-3596.699999988079, 18.0, -6041.518508325222)
+[16:25:39] [Server thread/INFO]: MemeCrafts joined the game
+[16:36:01] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[16:36:01] [Server thread/INFO]: ElTilto left the game
+[16:36:23] [User Authenticator #13/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[16:36:23] [Server thread/INFO]: ElTilto[/73.217.234.228:56738] logged in with entity id 304737 at (-736.5724727238483, 69.0, 1438.277989840836)
+[16:36:23] [Server thread/INFO]: ElTilto joined the game
+[16:36:27] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[16:36:27] [Server thread/INFO]: ElTilto left the game
+[16:36:35] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[16:36:35] [Server thread/INFO]: MemeCrafts left the game
+[16:37:06] [Server thread/INFO]: [Manic_Soul: Kicked BoyWhoShatTime: not in bed]
+[16:37:06] [Server thread/INFO]: BoyWhoShatTime lost connection: not in bed
+[16:37:06] [Server thread/INFO]: BoyWhoShatTime left the game
+[16:37:12] [User Authenticator #14/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:37:12] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52881] logged in with entity id 305876 at (-3824.2410728316754, 62.07326432466507, -5628.409967903516)
+[16:37:12] [Server thread/INFO]: MemeCrafts joined the game
+[16:37:14] [User Authenticator #15/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[16:37:14] [Server thread/INFO]: ElTilto[/73.217.234.228:56745] logged in with entity id 306318 at (-736.5724727238483, 69.0, 1438.277989840836)
+[16:37:14] [Server thread/INFO]: ElTilto joined the game
+[16:42:29] [Server thread/INFO]: MemeCrafts has made the advancement [A Seedy Place]
+[16:47:48] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[16:47:48] [Server thread/INFO]: ElTilto left the game
+[16:48:00] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[16:48:00] [Server thread/INFO]: MemeCrafts left the game
+[16:48:34] [User Authenticator #16/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:48:34] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52903] logged in with entity id 364788 at (-3690.8752710685817, 14.0, -6048.76983473222)
+[16:48:34] [Server thread/INFO]: MemeCrafts joined the game
+[16:48:41] [User Authenticator #17/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[16:48:41] [Server thread/INFO]: ElTilto[/73.217.234.228:56782] logged in with entity id 365361 at (-2947.8558205813274, 63.0, 376.58106372080243)
+[16:48:41] [Server thread/INFO]: ElTilto joined the game
+[16:48:51] [Server thread/INFO]: MemeCrafts has made the advancement [Diamonds!]
+[16:49:48] [User Authenticator #18/INFO]: UUID of player BoyWhoShatTime is 45f3e7e5-ede1-4ee1-96cd-48fac3cfbddc
+[16:49:48] [Server thread/INFO]: BoyWhoShatTime[/73.217.241.177:56389] logged in with entity id 371256 at (-3787.300000011921, 81.0, -5684.437785382699)
+[16:49:48] [Server thread/INFO]: BoyWhoShatTime joined the game
+[16:52:44] [Server thread/INFO]: Manic_Soul fell from a high place
+[16:54:09] [Server thread/INFO]: <Manic_Soul> -3700,-5700
+[16:57:12] [Server thread/INFO]: [Manic_Soul: Gave 1 [Iron Pickaxe] to Manic_Soul]
+[16:59:28] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[16:59:28] [Server thread/INFO]: ElTilto left the game
+[16:59:30] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[16:59:30] [Server thread/INFO]: MemeCrafts left the game
+[16:59:47] [User Authenticator #19/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:59:47] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52925] logged in with entity id 425987 at (-3638.3709340168234, 66.0, -6008.152399309905)
+[16:59:47] [Server thread/INFO]: MemeCrafts joined the game
+[16:59:50] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[16:59:50] [Server thread/INFO]: MemeCrafts left the game
+[16:59:53] [User Authenticator #20/INFO]: UUID of player MemeCrafts is 6b418d69-0132-4b09-9815-5b406b79d5fa
+[16:59:53] [Server thread/INFO]: MemeCrafts[/73.48.21.207:52927] logged in with entity id 426198 at (-3638.3709340168234, 66.0, -6008.152399309905)
+[16:59:53] [Server thread/INFO]: MemeCrafts joined the game
+[17:00:08] [User Authenticator #21/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[17:00:08] [Server thread/INFO]: ElTilto[/73.217.234.228:56805] logged in with entity id 427199 at (-3793.2595761296247, 67.0, -1658.0029722119743)
+[17:00:08] [Server thread/INFO]: ElTilto joined the game
+[17:05:22] [WorldGen-Scheduler-1/WARN]: Skipping Entity with id minecraft:
+[17:07:56] [Server thread/INFO]: ElTilto has made the advancement [Monster Hunter]
+[17:09:51] [User Authenticator #22/INFO]: UUID of player ChigBungus is 00b4067c-bb79-4d5d-8adf-774f3d23e5fb
+[17:09:51] [Server thread/INFO]: ChigBungus[/131.151.147.67:59557] logged in with entity id 475178 at (-3114.831819211302, 74.0, -5344.356964387121)
+[17:09:51] [Server thread/INFO]: ChigBungus joined the game
+[17:11:53] [Server thread/INFO]: MemeCrafts lost connection: Disconnected
+[17:11:53] [Server thread/INFO]: MemeCrafts left the game
+[17:11:57] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[17:11:57] [Server thread/INFO]: ElTilto left the game
+[17:17:15] [Server thread/INFO]: ChigBungus fell from a high place
+[17:17:53] [Server thread/INFO]: ChigBungus lost connection: Disconnected
+[17:17:53] [Server thread/INFO]: ChigBungus left the game
+[17:20:52] [User Authenticator #23/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[17:20:52] [Server thread/INFO]: ElTilto[/73.217.234.228:56843] logged in with entity id 502834 at (-3738.8927034825556, 62.073264324665075, -4475.267822604811)
+[17:20:52] [Server thread/INFO]: ElTilto joined the game
+[17:29:53] [User Authenticator #24/INFO]: UUID of player ChigBungus is 00b4067c-bb79-4d5d-8adf-774f3d23e5fb
+[17:29:53] [Server thread/INFO]: ChigBungus[/131.151.147.67:60912] logged in with entity id 526083 at (-3111.503273094062, 83.0, -5343.810361923275)
+[17:29:53] [Server thread/INFO]: ChigBungus joined the game
+[17:30:00] [Server thread/INFO]: ChigBungus lost connection: Disconnected
+[17:30:00] [Server thread/INFO]: ChigBungus left the game
+[17:30:41] [Server thread/WARN]: BoyWhoShatTime was kicked for floating too long!
+[17:30:41] [Server thread/INFO]: BoyWhoShatTime lost connection: Flying is not enabled on this server
+[17:30:41] [Server thread/INFO]: BoyWhoShatTime left the game
+[17:30:47] [User Authenticator #25/INFO]: UUID of player BoyWhoShatTime is 45f3e7e5-ede1-4ee1-96cd-48fac3cfbddc
+[17:30:48] [Server thread/INFO]: BoyWhoShatTime[/73.217.241.177:57520] logged in with entity id 528559 at (-3803.5, 89.0999984741211, -5684.5)
+[17:30:48] [Server thread/INFO]: BoyWhoShatTime joined the game
+[17:32:10] [Server thread/INFO]: JazManthing lost connection: Disconnected
+[17:32:10] [Server thread/INFO]: JazManthing left the game
+[17:32:38] [Server thread/INFO]: [Manic_Soul: Gave 16 [Redstone Dust] to Manic_Soul]
+[17:33:29] [Server thread/INFO]: [Manic_Soul: Gave 35 [Gold Ingot] to Manic_Soul]
+[17:41:20] [User Authenticator #26/INFO]: UUID of player JazManthing is 18d39cb5-3b45-4476-8d4e-209930a6886a
+[17:41:20] [Server thread/INFO]: JazManthing[/69.247.220.50:54591] logged in with entity id 541873 at (-3456.383113528486, 14.0, -6010.300000011921)
+[17:41:20] [Server thread/INFO]: JazManthing joined the game
+[17:42:24] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to JazManthing]
+[17:42:24] [Server thread/WARN]: Manic_Soul moved too quickly! 333.578300178659,-75.0,-318.4388803668835
+[17:42:43] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to BoyWhoShatTime]
+[17:46:32] [User Authenticator #27/INFO]: UUID of player Good_Vibes2k16 is 2c11e47a-573d-4f19-9104-7c4c34cd6f28
+[17:46:32] [Server thread/INFO]: Good_Vibes2k16[/162.202.158.159:53027] logged in with entity id 552348 at (-3621.5, 93.0, -5681.5)
+[17:46:32] [Server thread/INFO]: Good_Vibes2k16 joined the game
+[17:47:08] [Server thread/INFO]: <Good_Vibes2k16> HONEY IM HOME
+[17:48:31] [Server thread/INFO]: Good_Vibes2k16 lost connection: Disconnected
+[17:48:31] [Server thread/INFO]: Good_Vibes2k16 left the game
+[17:48:56] [Server thread/INFO]: JazManthing has made the advancement [Diamonds!]
+[17:49:18] [Server thread/INFO]: [Manic_Soul: Set the time to 20441]
+[17:50:32] [Server thread/INFO]: [Manic_Soul: Set the time to 22417]
+[17:50:35] [Server thread/INFO]: [Manic_Soul: Set the time to 22993]
+[17:55:50] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to ElTilto]
+[17:56:31] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[17:57:56] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to ElTilto]
+[17:58:49] [Server thread/WARN]: Manic_Soul moved too quickly! 5.725487094182881,0.0,-9.07063146199198
+[17:59:06] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to BoyWhoShatTime]
+[17:59:26] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[17:59:50] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to ElTilto]
+[18:00:18] [Server thread/INFO]: [Manic_Soul: Teleported Manic_Soul to BoyWhoShatTime]
+[18:01:36] [Server thread/INFO]: JazManthing has made the advancement [Enchanter]
+[18:01:52] [Server thread/INFO]: <Manic_Soul> -3700, -5700
+[18:02:48] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[18:03:41] [Server thread/INFO]: [Manic_Soul: Gave 4 [Lead] to Manic_Soul]
+[18:08:59] [Server thread/INFO]: JazManthing has made the advancement [Fishy Business]
+[18:12:33] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[18:13:05] [User Authenticator #28/INFO]: UUID of player ChigBungus is 00b4067c-bb79-4d5d-8adf-774f3d23e5fb
+[18:13:05] [Server thread/INFO]: ChigBungus[/131.151.147.67:63720] logged in with entity id 626859 at (-3111.503273094062, 83.0, -5343.810361923275)
+[18:13:05] [Server thread/INFO]: ChigBungus joined the game
+[18:15:19] [Server thread/WARN]: ChigBungus moved too quickly! -1.0983717884805628,-13.669854392438936,0.5635922535002464
+[18:15:19] [Server thread/INFO]: ChigBungus fell from a high place
+[18:18:34] [Server thread/INFO]: ChigBungus fell from a high place
+[18:22:09] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[18:23:12] [Server thread/INFO]: Manic_Soul has made the advancement [Best Friends Forever]
+[18:31:28] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[18:35:38] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[18:35:38] [Server thread/INFO]: ElTilto left the game
+[18:35:44] [User Authenticator #29/INFO]: UUID of player ElTilto is 0889eaf8-fe54-47b3-b15c-203c5e8614aa
+[18:35:44] [Server thread/INFO]: ElTilto[/73.217.234.228:57095] logged in with entity id 706298 at (-3858.794761515383, 93.0, -5786.802044386996)
+[18:35:44] [Server thread/INFO]: ElTilto joined the game
+[18:39:34] [Server thread/INFO]: [Manic_Soul: Gave 8 [Lead] to Manic_Soul]
+[18:41:39] [Server thread/INFO]: [Manic_Soul: Gave 1 [Stone Pickaxe] to Manic_Soul]
+[18:42:05] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[18:52:03] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[18:56:37] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[18:56:37] [Server thread/INFO]: ElTilto has made the advancement [A Seedy Place]
+[18:59:53] [Server thread/INFO]: ElTilto has made the advancement [The Parrots and the Bats]
+[19:01:10] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[19:05:24] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[19:05:31] [Server thread/INFO]: [Manic_Soul: Gave 1 [Saddle] to Manic_Soul]
+[19:07:02] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[19:09:46] [Server thread/INFO]: ElTilto lost connection: Disconnected
+[19:09:46] [Server thread/INFO]: ElTilto left the game
+[19:10:38] [Server thread/INFO]: [Manic_Soul: Set the time to 1000]
+[19:10:39] [User Authenticator #30/INFO]: UUID of player thickfila is 4a0b50a7-3b43-4b0e-a873-73ee0faa6883
+[19:10:39] [Server thread/INFO]: thickfila[/73.217.209.34:49916] logged in with entity id 826101 at (-3621.5, 93.0, -5681.5)
+[19:10:39] [Server thread/INFO]: thickfila joined the game
+[19:13:42] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[19:21:40] [User Authenticator #31/INFO]: UUID of player nebraskafan27 is b2ac96c8-13fe-4d80-ad8b-225d8b5cf524
+[19:21:40] [Server thread/INFO]: nebraskafan27[/73.217.209.34:53809] logged in with entity id 860386 at (470.6725043588387, 106.0, -337.5144307959703)
+[19:21:40] [Server thread/INFO]: nebraskafan27 joined the game
+[19:21:53] [Server thread/INFO]: [nebraskafan27: Set own game mode to Creative Mode]
+[19:22:07] [Server thread/INFO]: [nebraskafan27: Teleported nebraskafan27 to Manic_Soul]
+[19:22:27] [Server thread/INFO]: [Manic_Soul: Set nebraskafan27's game mode to Survival Mode]
+[19:22:28] [Server thread/INFO]: nebraskafan27 fell from a high place
+[19:22:35] [Server thread/INFO]: <nebraskafan27> bruh
+[19:22:38] [Server thread/INFO]: <Manic_Soul> kek
+[19:22:43] [Server thread/INFO]: <nebraskafan27> im testing something lmao
+[19:22:48] [Server thread/INFO]: <Manic_Soul> my b
+[19:22:58] [Server thread/INFO]: <Manic_Soul> I thought maddy was playing still
+[19:22:59] [Server thread/INFO]: nebraskafan27 was blown up by Creeper
+[19:23:11] [Server thread/INFO]: <nebraskafan27> she is on her laptop lolk
+[19:23:15] [Server thread/INFO]: [nebraskafan27: Set own game mode to Creative Mode]
+[19:23:21] [Server thread/INFO]: [Manic_Soul: Set own game mode to Creative Mode]
+[19:23:38] [User Authenticator #32/INFO]: UUID of player Good_Vibes2k16 is 2c11e47a-573d-4f19-9104-7c4c34cd6f28
+[19:23:38] [Server thread/INFO]: Good_Vibes2k16[/162.202.158.159:53860] logged in with entity id 865040 at (-3495.720982137937, 84.0, -5642.100601432281)
+[19:23:38] [Server thread/INFO]: Good_Vibes2k16 joined the game
+[19:23:46] [Server thread/INFO]: [Manic_Soul: Set own game mode to Survival Mode]
+[19:24:03] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
+[19:24:03] [Server thread/INFO]: Manic_Soul left the game
+[19:24:07] [Server thread/INFO]: Good_Vibes2k16 was slain by Zombie
+[19:24:07] [User Authenticator #33/INFO]: UUID of player Manic_Soul is f73326f1-44d9-4888-a154-345653dd89de
+[19:24:08] [Server thread/INFO]: Manic_Soul[/127.0.0.1:58925] logged in with entity id 866388 at (-3459.5306651131255, 73.0, -5824.3994392342065)
+[19:24:08] [Server thread/INFO]: Manic_Soul joined the game
+[19:24:12] [Server thread/INFO]: Manic_Soul lost connection: Disconnected
+[19:24:12] [Server thread/INFO]: Manic_Soul left the game
+[19:24:22] [Server thread/INFO]: Good_Vibes2k16 has made the advancement [Monster Hunter]
+[19:24:34] [Server thread/INFO]: Unknown command
+[19:24:34] [Server thread/INFO]: everyone get to a stopping point<--[HERE]
+[19:24:47] [Server thread/INFO]: /advancement (grant|revoke)
+[19:24:47] [Server thread/INFO]: /ban <targets> [<reason>]
+[19:24:47] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[19:24:47] [Server thread/INFO]: /banlist [ips|players]
+[19:24:47] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[19:24:47] [Server thread/INFO]: /clear [<targets>]
+[19:24:47] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[19:24:47] [Server thread/INFO]: /data (get|merge|remove)
+[19:24:47] [Server thread/INFO]: /datapack (disable|enable|list)
+[19:24:47] [Server thread/INFO]: /debug (start|stop)
+[19:24:47] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[19:24:47] [Server thread/INFO]: /deop <targets>
+[19:24:47] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[19:24:47] [Server thread/INFO]: /effect (clear|give)
+[19:24:47] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[19:24:47] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[19:24:47] [Server thread/INFO]: /experience (add|query|set)
+[19:24:47] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[19:24:47] [Server thread/INFO]: /forceload (add|query|remove)
+[19:24:47] [Server thread/INFO]: /function <name>
+[19:24:47] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[19:24:47] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[19:24:47] [Server thread/INFO]: /give <targets> <item> [<count>]
+[19:24:47] [Server thread/INFO]: /help [<command>]
+[19:24:47] [Server thread/INFO]: /kick <targets> [<reason>]
+[19:24:47] [Server thread/INFO]: /kill <targets>
+[19:24:47] [Server thread/INFO]: /list [uuids]
+[19:24:47] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Shipwreck|Stronghold|Swamp_Hut|Village)
+[19:24:47] [Server thread/INFO]: /me <action>
+[19:24:47] [Server thread/INFO]: /msg <targets> <message>
+[19:24:47] [Server thread/INFO]: /op <targets>
+[19:24:47] [Server thread/INFO]: /pardon <targets>
+[19:24:47] [Server thread/INFO]: /pardon-ip <target>
+[19:24:47] [Server thread/INFO]: /particle <name> [<pos>]
+[19:24:47] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[19:24:47] [Server thread/INFO]: /recipe (give|take)
+[19:24:47] [Server thread/INFO]: /reload
+[19:24:47] [Server thread/INFO]: /replaceitem (block|entity)
+[19:24:47] [Server thread/INFO]: /save-all [flush]
+[19:24:47] [Server thread/INFO]: /save-off
+[19:24:47] [Server thread/INFO]: /save-on
+[19:24:47] [Server thread/INFO]: /say <message>
+[19:24:47] [Server thread/INFO]: /scoreboard (objectives|players)
+[19:24:47] [Server thread/INFO]: /seed
+[19:24:47] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[19:24:47] [Server thread/INFO]: /setidletimeout <minutes>
+[19:24:47] [Server thread/INFO]: /setworldspawn [<pos>]
+[19:24:47] [Server thread/INFO]: /spawnpoint [<targets>]
+[19:24:47] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[19:24:47] [Server thread/INFO]: /stop
+[19:24:47] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[19:24:47] [Server thread/INFO]: /summon <entity> [<pos>]
+[19:24:47] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[19:24:47] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[19:24:47] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[19:24:47] [Server thread/INFO]: /tell -> msg
+[19:24:47] [Server thread/INFO]: /tellraw <targets> <message>
+[19:24:47] [Server thread/INFO]: /time (add|query|set)
+[19:24:47] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[19:24:47] [Server thread/INFO]: /tp -> teleport
+[19:24:47] [Server thread/INFO]: /trigger <objective> [add|set]
+[19:24:47] [Server thread/INFO]: /w -> msg
+[19:24:47] [Server thread/INFO]: /weather (clear|rain|thunder)
+[19:24:47] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[19:24:47] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[19:24:47] [Server thread/INFO]: /xp -> experience
+[19:24:48] [Server thread/INFO]: Good_Vibes2k16 was slain by Zombie
+[19:25:09] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:12] [Server thread/INFO]: Good_Vibes2k16 was slain by Zombie
+[19:25:17] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:18] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:19] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:20] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:21] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:21] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:22] [Server thread/INFO]: nebraskafan27 lost connection: Disconnected
+[19:25:22] [Server thread/INFO]: nebraskafan27 left the game
+[19:25:25] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:26] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:26] [Server thread/INFO]: thickfila lost connection: Disconnected
+[19:25:26] [Server thread/INFO]: thickfila left the game
+[19:25:26] [Server thread/INFO]: ChigBungus lost connection: Disconnected
+[19:25:26] [Server thread/INFO]: ChigBungus left the game
+[19:25:26] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:27] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:28] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:29] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:29] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:30] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:31] [Server thread/INFO]: [Server] everyone get to a stopping point
+[19:25:37] [Server thread/INFO]: <Good_Vibes2k16> im in the end
+[19:25:38] [Server thread/INFO]: <Good_Vibes2k16> hold on
+[19:25:38] [Server thread/INFO]: JazManthing lost connection: Disconnected
+[19:25:38] [Server thread/INFO]: JazManthing left the game
+[19:25:46] [Server thread/INFO]: Good_Vibes2k16 lost connection: Disconnected
+[19:25:46] [Server thread/INFO]: Good_Vibes2k16 left the game
+[19:25:52] [Server thread/INFO]: Stopping the server
+[19:25:52] [Server thread/INFO]: Stopping server
+[19:25:52] [Server thread/INFO]: Saving players
+[19:25:52] [Server thread/INFO]: Saving worlds
+[19:25:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:25:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:25:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:25:52] [Server Shutdown Thread/INFO]: Stopping server
+[19:25:52] [Server Shutdown Thread/INFO]: Saving players
+[19:25:52] [Server Shutdown Thread/INFO]: BoyWhoShatTime lost connection: Server closed
+[19:25:52] [Server Shutdown Thread/INFO]: BoyWhoShatTime left the game
+[19:25:52] [Server Shutdown Thread/INFO]: Saving worlds
+[19:25:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:25:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:25:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
