@@ -334,6 +334,7 @@
       "cooked_porkchop": "2019-04-02 23:45:22 -0500",
       "cooked_mutton": "2019-04-02 23:06:31 -0500",
       "bread": "2019-04-03 00:17:32 -0500",
+      "rotten_flesh": "2019-04-03 18:43:11 -0500",
       "beetroot": "2019-04-03 03:01:41 -0500",
       "cooked_chicken": "2019-04-02 23:06:37 -0500",
       "cooked_salmon": "2019-04-03 01:34:30 -0500",
@@ -425,13 +426,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-04-02 22:34:24 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-04-02 22:34:24 -0500"
     },
@@ -822,13 +823,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-04-03 00:13:05 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-04-03 00:13:05 -0500"
     },
@@ -854,7 +855,8 @@
       "minecraft:enderman": "2019-04-03 04:45:41 -0500",
       "minecraft:spider": "2019-04-03 00:13:31 -0500",
       "minecraft:zombie": "2019-04-02 22:33:30 -0500",
-      "minecraft:creeper": "2019-04-03 03:35:30 -0500"
+      "minecraft:creeper": "2019-04-03 03:35:30 -0500",
+      "minecraft:zombie_villager": "2019-04-03 19:24:47 -0500"
     },
     "done": false
   },
@@ -885,6 +887,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-04-03 00:05:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-04-03 19:24:38 -0500"
     },
     "done": true
   },
@@ -1467,9 +1475,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-04-02 22:32:23 -0500",
-      "minecraft:forest": "2019-04-02 22:29:21 -0500",
-      "minecraft:mountains": "2019-04-02 22:34:20 -0500",
       "minecraft:badlands_plateau": "2019-04-02 22:36:03 -0500",
+      "minecraft:mountains": "2019-04-02 22:34:20 -0500",
+      "minecraft:forest": "2019-04-02 22:29:21 -0500",
       "minecraft:desert": "2019-04-02 22:47:14 -0500",
       "minecraft:badlands": "2019-04-02 22:38:25 -0500",
       "minecraft:savanna_plateau": "2019-04-02 22:52:17 -0500",

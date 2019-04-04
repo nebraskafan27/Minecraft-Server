@@ -35,15 +35,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2019-04-02 21:00:58 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-04-02 21:00:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2019-04-02 21:00:58 -0500"
     },
     "done": true
   },
@@ -103,8 +103,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-04-02 20:18:09 -0500",
       "minecraft:mountains": "2019-04-02 20:58:32 -0500",
+      "minecraft:forest": "2019-04-02 20:18:09 -0500",
+      "minecraft:badlands_plateau": "2019-04-03 19:22:20 -0500",
+      "minecraft:badlands": "2019-04-03 19:22:08 -0500",
       "minecraft:beach": "2019-04-02 20:59:20 -0500",
       "minecraft:river": "2019-04-02 20:59:12 -0500",
       "minecraft:wooded_hills": "2019-04-02 20:21:59 -0500",
@@ -149,15 +151,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2019-04-02 21:00:58 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-04-02 21:00:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-04-02 21:00:58 -0500"
     },
     "done": true
   },
@@ -179,9 +181,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_planks": "2019-04-02 21:00:58 -0500"
+      "has_white_wool": "2019-04-02 21:00:17 -0500"
     },
     "done": true
   },
@@ -191,13 +193,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2019-04-02 21:00:17 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-04-02 21:00:58 -0500"
     },
@@ -206,6 +202,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2019-04-02 21:00:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2019-04-02 21:00:58 -0500"
     },
     "done": true
   },
@@ -227,6 +229,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-04-02 20:59:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-04-02 20:59:32 -0500"
@@ -236,12 +244,6 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-04-02 21:00:58 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2019-04-02 20:59:31 -0500"
     },
     "done": true
   },
