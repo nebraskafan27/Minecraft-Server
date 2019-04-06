@@ -1,15 +1,15 @@
 lastAccountName: BoyWhoShatTime
 timestamps:
-  login: 1554342989690
-  logout: 1554349802526
+  login: 1554514827326
+  logout: 1554549716356
 ipAddress: 73.217.241.177
 logoutlocation:
   world: world
-  x: -3795.487500011921
-  y: 84.0
-  z: -5682.110857019639
-  yaw: 182.81555
-  pitch: 35.849995
+  x: -3785.9648737310295
+  y: 81.0
+  z: -5682.234475174436
+  yaw: 103.84155
+  pitch: 23.849802
 lastlocation:
   world: world
   x: -3208.072551832426
