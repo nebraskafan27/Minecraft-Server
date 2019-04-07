@@ -3,7 +3,7 @@
 #Sets the maximun number of logs and leaves that can be destroyed at once. -1 to unlimit.
 destroy limit: -1
 #Sets if trees should be replanted automatically.
-replant: false
+replant: true
 #Sets if saplings replanted by this plugin whould be unbreakable (the block behind too).
 invincible replant: true
 #Sets vip mode. If enabled, a permission node (cristreecapitator.vip) is required to take down trees at once.

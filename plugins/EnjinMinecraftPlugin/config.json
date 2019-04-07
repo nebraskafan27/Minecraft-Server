@@ -1,0 +1,30 @@
+{
+  "collect-player-stats": true,
+  "send-stats-interval": 5,
+  "listen-for-bans": true,
+  "stats-collected": {
+    "player": {
+      "travel": true,
+      "blocks-broken": true,
+      "blocks-placed": true,
+      "kills": true,
+      "deaths": true,
+      "xp": true
+    },
+    "server": {
+      "creeper-explosions": true,
+      "player-kicks": true
+    }
+  },
+  "buy-command": "buy",
+  "use-buy-gui": true,
+  "enabled-components": {
+    "vote-listener": true
+  },
+  "debug": false,
+  "auth-key": "3e5bb39f96b832d42d0ed0510fc173edacc9972f72dbc6af88",
+  "https": true,
+  "sync-delay": 10,
+  "logging-enabled": true,
+  "api-url": "://api.enjin.com/api/v1"
+}

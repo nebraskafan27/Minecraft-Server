@@ -507,6 +507,7 @@
     "criteria": {
       "minecraft:blaze": "2019-04-04 15:05:33 -0500",
       "minecraft:skeleton": "2019-04-02 21:56:22 -0500",
+      "minecraft:phantom": "2019-04-06 23:21:39 -0500",
       "minecraft:wither_skeleton": "2019-04-04 15:08:42 -0500",
       "minecraft:zombie_pigman": "2019-04-04 14:59:27 -0500",
       "minecraft:husk": "2019-04-04 14:18:14 -0500",
@@ -515,7 +516,8 @@
       "minecraft:magma_cube": "2019-04-04 15:02:23 -0500",
       "minecraft:spider": "2019-04-02 23:57:59 -0500",
       "minecraft:zombie": "2019-04-02 21:55:10 -0500",
-      "minecraft:creeper": "2019-04-03 17:18:40 -0500"
+      "minecraft:creeper": "2019-04-03 17:18:40 -0500",
+      "minecraft:zombie_villager": "2019-04-06 21:45:04 -0500"
     },
     "done": false
   },
@@ -949,24 +951,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-04-02 20:40:27 -0500",
-      "minecraft:badlands_plateau": "2019-04-02 22:34:57 -0500",
-      "minecraft:forest": "2019-04-02 20:15:46 -0500",
       "minecraft:mountains": "2019-04-02 20:40:17 -0500",
+      "minecraft:forest": "2019-04-02 20:15:46 -0500",
+      "minecraft:badlands_plateau": "2019-04-02 22:34:57 -0500",
       "minecraft:taiga": "2019-04-02 22:05:13 -0500",
       "minecraft:desert_hills": "2019-04-02 21:33:08 -0500",
       "minecraft:deep_cold_ocean": "2019-04-02 20:57:06 -0500",
       "minecraft:taiga_hills": "2019-04-02 22:13:31 -0500",
       "minecraft:desert": "2019-04-02 21:32:33 -0500",
       "minecraft:deep_frozen_ocean": "2019-04-02 20:57:22 -0500",
+      "minecraft:jungle": "2019-04-06 22:15:43 -0500",
       "minecraft:birch_forest": "2019-04-02 22:10:44 -0500",
+      "minecraft:jungle_hills": "2019-04-06 22:17:25 -0500",
       "minecraft:warm_ocean": "2019-04-02 22:04:04 -0500",
       "minecraft:deep_lukewarm_ocean": "2019-04-02 22:04:18 -0500",
       "minecraft:badlands": "2019-04-02 22:32:18 -0500",
       "minecraft:savanna_plateau": "2019-04-02 21:34:22 -0500",
       "minecraft:beach": "2019-04-02 20:21:04 -0500",
       "minecraft:dark_forest": "2019-04-02 22:11:41 -0500",
-      "minecraft:river": "2019-04-02 20:21:04 -0500",
       "minecraft:lukewarm_ocean": "2019-04-02 22:03:58 -0500",
+      "minecraft:river": "2019-04-02 20:21:04 -0500",
+      "minecraft:birch_forest_hills": "2019-04-06 21:48:08 -0500",
       "minecraft:wooded_mountains": "2019-04-03 17:57:16 -0500",
       "minecraft:wooded_hills": "2019-04-02 21:07:52 -0500",
       "minecraft:stone_shore": "2019-04-02 20:40:21 -0500",
@@ -2068,6 +2073,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-04-02 21:00:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-04-06 22:37:42 -0500"
     },
     "done": true
   },

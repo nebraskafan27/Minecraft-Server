@@ -591,13 +591,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-04-03 15:40:11 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-04-03 15:40:11 -0500"
     },
@@ -1500,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-04-06 22:16:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2019-04-03 15:45:31 -0500"
@@ -1659,6 +1665,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-04-03 01:12:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-04-06 22:16:01 -0500"
     },
     "done": true
   },
@@ -1914,10 +1926,14 @@
       "minecraft:mountains": "2019-04-06 00:19:18 -0500",
       "minecraft:badlands_plateau": "2019-04-02 23:55:26 -0500",
       "minecraft:forest": "2019-04-03 01:51:11 -0500",
+      "minecraft:taiga": "2019-04-06 22:19:47 -0500",
       "minecraft:desert_hills": "2019-04-06 00:26:37 -0500",
       "minecraft:deep_cold_ocean": "2019-04-03 01:20:05 -0500",
       "minecraft:desert": "2019-04-03 01:18:33 -0500",
+      "minecraft:deep_frozen_ocean": "2019-04-06 22:12:30 -0500",
+      "minecraft:jungle": "2019-04-06 22:16:02 -0500",
       "minecraft:birch_forest": "2019-04-03 01:20:34 -0500",
+      "minecraft:jungle_hills": "2019-04-06 22:20:07 -0500",
       "minecraft:deep_lukewarm_ocean": "2019-04-03 01:58:35 -0500",
       "minecraft:badlands": "2019-04-03 00:12:51 -0500",
       "minecraft:beach": "2019-04-03 01:18:17 -0500",
@@ -1927,7 +1943,8 @@
       "minecraft:wooded_mountains": "2019-04-06 00:20:06 -0500",
       "minecraft:stone_shore": "2019-04-05 23:59:44 -0500",
       "minecraft:wooded_badlands_plateau": "2019-04-03 00:07:07 -0500",
-      "minecraft:savanna": "2019-04-05 23:28:49 -0500"
+      "minecraft:savanna": "2019-04-05 23:28:49 -0500",
+      "minecraft:plains": "2019-04-06 22:05:51 -0500"
     },
     "done": false
   },
@@ -2198,6 +2215,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-04-03 03:29:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-04-06 22:16:47 -0500"
     },
     "done": true
   },

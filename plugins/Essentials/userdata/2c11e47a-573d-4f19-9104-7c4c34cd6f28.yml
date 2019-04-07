@@ -1,15 +1,15 @@
 lastAccountName: Good_Vibes2k16
 timestamps:
-  login: 1554562475356
-  logout: 1554563126804
+  login: 1554625544525
+  logout: 1554629782065
 ipAddress: 162.202.158.159
 logoutlocation:
   world: world
-  x: -3132.687130602233
-  y: 88.0
-  z: -6467.42814327329
-  yaw: -244.99377
-  pitch: 25.199497
+  x: -3049.469309870138
+  y: 50.0
+  z: -5018.865488804883
+  yaw: 19.15328
+  pitch: 14.999403
 lastlocation:
   world: world
   x: -3782.8960187564826

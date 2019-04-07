@@ -1,15 +1,15 @@
 lastAccountName: JazManthing
 timestamps:
-  login: 1554530263096
-  logout: 1554534338360
+  login: 1554625760514
+  logout: 1554626076115
 ipAddress: 69.247.220.50
 logoutlocation:
   world: world
-  x: -3495.1313461481714
+  x: -3493.3491958488394
   y: 88.0
-  z: -5628.557003500337
-  yaw: 326.32117
-  pitch: 11.863383
+  z: -5630.531731501938
+  yaw: 98.37848
+  pitch: -2.7354813
 lastlocation:
   world: world
   x: -3458.747898243832

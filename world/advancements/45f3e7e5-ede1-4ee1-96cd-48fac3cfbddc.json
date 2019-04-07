@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-04-06 21:18:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-04-02 21:29:05 -0500"
@@ -465,6 +471,7 @@
       "cooked_cod": "2019-04-04 15:45:49 -0500",
       "mutton": "2019-04-02 21:05:21 -0500",
       "bread": "2019-04-02 21:47:27 -0500",
+      "salmon": "2019-04-06 22:05:46 -0500",
       "cooked_chicken": "2019-04-05 20:29:21 -0500",
       "carrot": "2019-04-02 22:10:47 -0500"
     },
@@ -578,13 +585,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-02 21:35:20 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-02 21:35:20 -0500"
     },
@@ -721,6 +728,12 @@
       "has_bed": "2019-04-02 22:44:40 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:ocelot": "2019-04-06 22:39:34 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1078,11 +1091,12 @@
       "minecraft:phantom": "2019-04-04 21:18:44 -0500",
       "minecraft:witch": "2019-04-04 17:11:10 -0500",
       "minecraft:wither_skeleton": "2019-04-03 15:56:55 -0500",
+      "minecraft:cave_spider": "2019-04-06 21:32:12 -0500",
       "minecraft:magma_cube": "2019-04-03 15:58:35 -0500",
       "minecraft:spider": "2019-04-03 10:18:42 -0500",
       "minecraft:zombie": "2019-04-03 00:55:31 -0500",
-      "minecraft:drowned": "2019-04-04 16:19:01 -0500",
-      "minecraft:creeper": "2019-04-03 01:04:00 -0500"
+      "minecraft:creeper": "2019-04-03 01:04:00 -0500",
+      "minecraft:drowned": "2019-04-04 16:19:01 -0500"
     },
     "done": false
   },
@@ -1458,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-04-06 22:15:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2019-04-02 21:40:59 -0500"
@@ -1623,6 +1643,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-04-02 21:29:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-04-06 22:15:19 -0500"
     },
     "done": true
   },
@@ -1887,24 +1913,26 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-04-02 21:25:40 -0500",
-      "minecraft:forest": "2019-04-02 20:51:11 -0500",
-      "minecraft:mountains": "2019-04-02 20:58:31 -0500",
       "minecraft:badlands_plateau": "2019-04-02 22:43:36 -0500",
+      "minecraft:mountains": "2019-04-02 20:58:31 -0500",
+      "minecraft:forest": "2019-04-02 20:51:11 -0500",
       "minecraft:taiga": "2019-04-04 15:41:56 -0500",
       "minecraft:desert_hills": "2019-04-02 21:33:27 -0500",
       "minecraft:deep_cold_ocean": "2019-04-02 21:25:41 -0500",
       "minecraft:taiga_hills": "2019-04-04 15:41:36 -0500",
       "minecraft:desert": "2019-04-02 21:32:46 -0500",
       "minecraft:deep_frozen_ocean": "2019-04-02 21:25:55 -0500",
+      "minecraft:jungle": "2019-04-06 22:15:11 -0500",
       "minecraft:birch_forest": "2019-04-04 15:39:56 -0500",
+      "minecraft:jungle_hills": "2019-04-06 22:16:10 -0500",
       "minecraft:warm_ocean": "2019-04-04 17:04:28 -0500",
       "minecraft:deep_lukewarm_ocean": "2019-04-02 22:29:29 -0500",
       "minecraft:badlands": "2019-04-03 00:54:55 -0500",
       "minecraft:savanna_plateau": "2019-04-02 21:42:19 -0500",
       "minecraft:beach": "2019-04-02 21:25:37 -0500",
       "minecraft:dark_forest": "2019-04-04 15:35:20 -0500",
-      "minecraft:lukewarm_ocean": "2019-04-02 21:45:45 -0500",
       "minecraft:river": "2019-04-02 21:25:36 -0500",
+      "minecraft:lukewarm_ocean": "2019-04-02 21:45:45 -0500",
       "minecraft:birch_forest_hills": "2019-04-04 15:40:27 -0500",
       "minecraft:wooded_mountains": "2019-04-04 15:32:39 -0500",
       "minecraft:wooded_hills": "2019-04-02 22:18:59 -0500",
@@ -2114,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-04-06 22:39:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-04-02 21:04:13 -0500"
@@ -2153,6 +2187,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-04-03 11:51:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-04-06 22:16:30 -0500"
     },
     "done": true
   },

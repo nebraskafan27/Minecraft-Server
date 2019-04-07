@@ -1,7 +1,7 @@
 lastAccountName: HotLykeStove
 timestamps:
-  login: 1554347411270
-  logout: 1554348783480
+  login: 1554618906658
+  logout: 1554626741466
 ipAddress: 73.217.243.97
 lastlocation:
   world: world
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 21.749884
 logoutlocation:
   world: world
-  x: -3739.4115951151407
-  y: 8.0
-  z: -5712.1411639583985
-  yaw: 7.1644287
-  pitch: -3.5999804
+  x: -3897.662930210685
+  y: 63.0
+  z: -5678.852778060666
+  yaw: 265.9237
+  pitch: 12.749946

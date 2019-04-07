@@ -1,20 +1,21 @@
 lastAccountName: nebraskafan27
 timestamps:
-  login: 1554575547141
-  logout: 1554575800321
+  login: 1554646960447
+  logout: 1554648049963
 ipAddress: 73.217.209.34
 logoutlocation:
   world: world
-  x: -3138.3305023955154
-  y: 72.37883746320229
-  z: -5349.3688678781555
-  yaw: 248.98126
-  pitch: 14.249134
+  x: -3192.1828996540025
+  y: 90.41847674361624
+  z: -5225.306929211956
+  yaw: -101.57251
+  pitch: 38.249596
 lastlocation:
   world: world
-  x: -3219.420943482491
-  y: 89.0
-  z: -5345.118381037922
-  yaw: 286.97556
-  pitch: 10.200648
+  x: -3173.139764866763
+  y: 88.0
+  z: -5245.531661542256
+  yaw: 291.2584
+  pitch: 26.401241
 godmode: true
+afk: false
